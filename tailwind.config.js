@@ -11,7 +11,21 @@ module.exports = {
       skyblue:"#CEEBF9",
       gray:"#B6B6B6",
       aqua:"#428CD4",
-      pink:"#FF9CDA"
+      pink:"#FF9CDA",
+      darkblue:"#2E2F5B",
+      spruce:"#505581",
+      yellow:"#F4D35E",
+      banana:"#FAF0CA",
+      white:"#F2F2F2",
+      mali:"#DDFFC9",
+      greengray:"#E0DAC7",
+      lightbl:"#B0CFD9",
+      darkerbl:"#799DC8",
+      darkg:"#6C8673",
+      lightg:"#B9CAB4",
+      darkbrown:"#402D20",
+      pearl:"#FBFCF8",
+
     },
     primary: {
       DEFAULT: '#3B82F6',
